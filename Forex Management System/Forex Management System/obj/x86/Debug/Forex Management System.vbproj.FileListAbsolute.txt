@@ -1,0 +1,383 @@
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_Menu.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_AcceptCurrency.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_remittance.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_AcceptCurrencyTo.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Deposit.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_balance.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_requestcurrency.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_BalanceCompany.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Crequestcurrency.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+G:\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+G:\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+G:\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+F:\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+F:\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+F:\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+E:\project\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+E:\project\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+E:\project\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_AcceptCurrencyTo.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_Menu.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_AcceptCurrency.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_remittance.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_BalanceCompany.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Crequestcurrency.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_balance.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_requestcurrency.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_broker.resources
+E:\project\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositnormal.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+G:\su\u4\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+G:\su\u4\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+G:\su\u4\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_broker.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_AcceptCurrencyTo.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_Menu.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_AcceptCurrency.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_remittance.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_BalanceCompany.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Crequestcurrency.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositnormal.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_balance.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_requestcurrency.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+G:\su\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+F:\guna project\u4\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+F:\guna project\u4\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+F:\guna project\u4\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_AcceptCurrency.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_requestcurrency.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Transactions.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_TransactionsCompany.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_ComConverter.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Nusermanage.resources
+F:\guna project\u4\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFCManage.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+F:\guna project\FEMA\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+F:\guna project\FEMA\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+F:\guna project\FEMA\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Nusermanage.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_TransactionsCompany.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_ComConverter.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_acceptCurrency.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFCManage.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Transactions.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_requestcurrency.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Form1.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Form2.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.loading.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.login.resources
+F:\guna project\FEMA\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.startscreen.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Nusermanage.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_TransactionsCompany.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_ComConverter.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_acceptCurrency.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFCManage.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Transactions.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_requestcurrency.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Register.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CreateUser.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_loading.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_login.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_startscreen.resources
+F:\guna project\FEMA 2\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Nusermanage.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_TransactionsCompany.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_ComConverter.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_acceptCurrency.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFCManage.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Transactions.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_BankUser.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Register.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CreateUser.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_loading.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_login.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_startscreen.resources
+G:\final fema\FEMA 3\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Nusermanage.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_TransactionsCompany.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_ComConverter.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_acceptCurrency.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFCManage.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Transactions.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_BankUser.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Register.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CreateUser.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_loading.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_login.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_startscreen.resources
+G:\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\bin\Debug\Forex Management System.exe
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\bin\Debug\Forex Management System.pdb
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\bin\Debug\Forex Management System.xml
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Resources.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFC.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_convertFCtoRupee.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportBroker.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importCredit.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_brokerEx.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_export.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_import.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFC.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Nusermanage.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_rfc.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_StudLoan.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.frm_tc.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_TransactionsCompany.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CapplStatus.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CompanyUser.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_ComConverter.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_depositCompany.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_exportDetails.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_importDetails.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_LoC.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_WithdrawCompany.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_acceptCurrency.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Curconverter.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_EEFCManage.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_applStatus.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Transactions.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_BankUser.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_NormalUser.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_withdrawal.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_Register.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_CreateUser.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_menu2.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_loading.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_login.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex_Management_System.Frm_startscreen.resources
+F:\guna project\final project\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.vbproj.GenerateResource.Cache
+F:\guna project\final project 12\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.exe
+F:\guna project\final project 12\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.xml
+F:\guna project\final project 12\final fema\FEMA 3 update color pic\Forex Management System\Forex Management System\obj\x86\Debug\Forex Management System.pdb

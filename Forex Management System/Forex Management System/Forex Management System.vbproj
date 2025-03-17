@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{92547005-E16F-45C4-A708-681E7D17CA6B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Forex_Management_System.My.MyApplication</StartupObject>
+    <RootNamespace>Forex_Management_System</RootNamespace>
+    <AssemblyName>Forex Management System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Forex Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Forex Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Modules\Sub procedures.vb" />
+    <Compile Include="Modules\Validate.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_convertFC.Designer.vb">
+      <DependentUpon>Frm_convertFC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_convertFC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_convertFCtoRupee.Designer.vb">
+      <DependentUpon>Frm_convertFCtoRupee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_convertFCtoRupee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_exportBroker.Designer.vb">
+      <DependentUpon>Frm_exportBroker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_exportBroker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_importCredit.Designer.vb">
+      <DependentUpon>Frm_importCredit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_importCredit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_brokerEx.Designer.vb">
+      <DependentUpon>Frm_brokerEx.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Broker\Frm_brokerEx.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\DbConn.vb" />
+    <Compile Include="Screens\User\Company User\Frm_export.Designer.vb">
+      <DependentUpon>Frm_export.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_export.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_import.Designer.vb">
+      <DependentUpon>Frm_import.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_import.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Frm_StudLoan.Designer.vb">
+      <DependentUpon>Frm_StudLoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Frm_StudLoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Frm_tc.Designer.vb">
+      <DependentUpon>Frm_tc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Frm_tc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Frm_EEFC.Designer.vb">
+      <DependentUpon>Frm_EEFC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Frm_EEFC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Frm_Nusermanage.Designer.vb">
+      <DependentUpon>Frm_Nusermanage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Frm_Nusermanage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Frm_RFC.Designer.vb">
+      <DependentUpon>Frm_RFC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Frm_RFC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_TransactionsCompany.Designer.vb">
+      <DependentUpon>Frm_TransactionsCompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_TransactionsCompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_CapplStatus.Designer.vb">
+      <DependentUpon>Frm_CapplStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_CapplStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_CompanyUser.Designer.vb">
+      <DependentUpon>Frm_CompanyUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_CompanyUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_ComConverter.Designer.vb">
+      <DependentUpon>Frm_ComConverter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_ComConverter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_depositCompany.Designer.vb">
+      <DependentUpon>Frm_depositCompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_depositCompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_exportDetails.Designer.vb">
+      <DependentUpon>Frm_exportDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_exportDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_importDetails.Designer.vb">
+      <DependentUpon>Frm_importDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_importDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_LoC.Designer.vb">
+      <DependentUpon>Frm_LoC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_LoC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_WithdrawCompany.Designer.vb">
+      <DependentUpon>Frm_WithdrawCompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Company User\Frm_WithdrawCompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_AcceptCurrency.Designer.vb">
+      <DependentUpon>Frm_AcceptCurrency.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_AcceptCurrency.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_Curconverter.Designer.vb">
+      <DependentUpon>Frm_Curconverter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_Curconverter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Frm_EEFCManage.Designer.vb">
+      <DependentUpon>Frm_EEFCManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Frm_EEFCManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_applStatus.Designer.vb">
+      <DependentUpon>Frm_applStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_applStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_Transactions.Designer.vb">
+      <DependentUpon>Frm_Transactions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_Transactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Frm_Bank User.Designer.vb">
+      <DependentUpon>Frm_Bank User.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Frm_Bank User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_NormalUser.Designer.vb">
+      <DependentUpon>Frm_NormalUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_NormalUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_withdrawal.Designer.vb">
+      <DependentUpon>Frm_withdrawal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\User\Normal User\Frm_withdrawal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilities\Frm_Register.Designer.vb">
+      <DependentUpon>Frm_Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="utilities\Frm_Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilities\Frm_CreateUser.Designer.vb">
+      <DependentUpon>Frm_CreateUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="utilities\Frm_CreateUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilities\Frm_menu2.Designer.vb">
+      <DependentUpon>Frm_menu2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="utilities\Frm_menu2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilities\Frm_loading.Designer.vb">
+      <DependentUpon>Frm_loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="utilities\Frm_loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilities\Frm_login.Designer.vb">
+      <DependentUpon>Frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="utilities\Frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilities\Frm_startscreen.Designer.vb">
+      <DependentUpon>Frm_startscreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="utilities\Frm_startscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Broker\Frm_convertFC.resx">
+      <DependentUpon>Frm_convertFC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Broker\Frm_convertFCtoRupee.resx">
+      <DependentUpon>Frm_convertFCtoRupee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Broker\Frm_exportBroker.resx">
+      <DependentUpon>Frm_exportBroker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Broker\Frm_importCredit.resx">
+      <DependentUpon>Frm_importCredit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Broker\Frm_brokerEx.resx">
+      <DependentUpon>Frm_brokerEx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_export.resx">
+      <DependentUpon>Frm_export.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_import.resx">
+      <DependentUpon>Frm_import.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Frm_EEFC.resx">
+      <DependentUpon>Frm_EEFC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Frm_Nusermanage.resx">
+      <DependentUpon>Frm_Nusermanage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Frm_RFC.resx">
+      <DependentUpon>Frm_RFC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Frm_StudLoan.resx">
+      <DependentUpon>Frm_StudLoan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Frm_tc.resx">
+      <DependentUpon>Frm_tc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_TransactionsCompany.resx">
+      <DependentUpon>Frm_TransactionsCompany.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_CapplStatus.resx">
+      <DependentUpon>Frm_CapplStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_CompanyUser.resx">
+      <DependentUpon>Frm_CompanyUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_ComConverter.resx">
+      <DependentUpon>Frm_ComConverter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_depositCompany.resx">
+      <DependentUpon>Frm_depositCompany.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_exportDetails.resx">
+      <DependentUpon>Frm_exportDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_importDetails.resx">
+      <DependentUpon>Frm_importDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_LoC.resx">
+      <DependentUpon>Frm_LoC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Company User\Frm_WithdrawCompany.resx">
+      <DependentUpon>Frm_WithdrawCompany.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Normal User\Frm_AcceptCurrency.resx">
+      <DependentUpon>Frm_AcceptCurrency.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Normal User\Frm_Curconverter.resx">
+      <DependentUpon>Frm_Curconverter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Frm_EEFCManage.resx">
+      <DependentUpon>Frm_EEFCManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Normal User\Frm_applStatus.resx">
+      <DependentUpon>Frm_applStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Normal User\Frm_Transactions.resx">
+      <DependentUpon>Frm_Transactions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Frm_Bank User.resx">
+      <DependentUpon>Frm_Bank User.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Normal User\Frm_NormalUser.resx">
+      <DependentUpon>Frm_NormalUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\User\Normal User\Frm_withdrawal.resx">
+      <DependentUpon>Frm_withdrawal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilities\Frm_Register.resx">
+      <DependentUpon>Frm_Register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilities\Frm_CreateUser.resx">
+      <DependentUpon>Frm_CreateUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilities\Frm_menu2.resx">
+      <DependentUpon>Frm_menu2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilities\Frm_loading.resx">
+      <DependentUpon>Frm_loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilities\Frm_login.resx">
+      <DependentUpon>Frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilities\Frm_startscreen.resx">
+      <DependentUpon>Frm_startscreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-circled-menu-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-minimize-window-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-horizontal-line-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
